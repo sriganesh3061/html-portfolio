@@ -1,0 +1,27 @@
+.bangladesh{
+  background-color:#006a4e;
+  position: relative;
+  top: 15%;
+  left: 15%;
+  width: 900px;
+  height: 600px;
+}
+
+.bangladesh>div{
+  background-color:#f42a41;
+  position: absolute;
+  top: 190px;
+  left: 350px;
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+}
+
+
+p{
+  margin: 0;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  font-size: 2.5rem;
+}
